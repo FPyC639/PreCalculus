@@ -1,7 +1,7 @@
 
-# Mobile_DNA_Java_WebScrape
+# PreCalculus
 
-This web scraper is a work in progress application I built based on DS 636 at NJIT. It is a pinnacle of Data Science enviroment being used in R. This is a small project that will gather and perform an analysis on titles using Natural Language Processing.
+This project in Wolfram is a on going project where a understanding of rational and irrational functions happens.
 
 
 
